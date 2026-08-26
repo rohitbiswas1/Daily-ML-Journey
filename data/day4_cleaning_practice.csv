@@ -1,0 +1,9 @@
+student_id,study_hours,attendance,assignments_completed,study_mode,score
+1,2,70,3,online,48
+2,,75,4,online,55
+3,4,80,,offline,63
+4,5,85,6,offline,71
+5,6,90,7,,78
+6,7,92,8,online,84
+7,8,95,9,offline,89
+7,8,95,9,offline,89
