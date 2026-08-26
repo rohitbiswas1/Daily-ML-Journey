@@ -21,17 +21,32 @@ Build strong foundations in Machine Learning through consistent daily study, cod
 | Day | Topic | Practice |
 |---|---|---|
 | Day 1 | What is Machine Learning? | Learning notes + first Python ML example |
+| Day 2 | Train/Test Split and Evaluation | Linear regression + MAE, RMSE, and R² |
+| Day 3 | Data Inspection with NumPy and Pandas | CSV inspection + summary statistics + correlation |
+| Day 4 | Data Cleaning and Preprocessing | Missing values + duplicates + one-hot encoding |
 
 ## Repository Structure
 ```text
 Daily-ML-Journey/
 ├── README.md
 ├── foundations/
-│   └── 01_intro_to_machine_learning.md
+│   ├── 01_intro_to_machine_learning.md
+│   ├── 02_train_test_evaluation.md
+│   ├── 03_data_inspection_numpy_pandas.md
+│   └── 04_data_cleaning_preprocessing.md
 ├── python_ml/
-│   └── 01_first_ml_example.py
-├── experiments/
+│   ├── 01_first_ml_example.py
+│   ├── 02_train_test_evaluation.py
+│   ├── 03_data_inspection.py
+│   └── 04_data_cleaning.py
+├── data/
+│   ├── study_progress.csv
+│   └── day4_cleaning_practice.csv
 └── daily_logs/
+    ├── day-01.md
+    ├── day-02.md
+    ├── day-03.md
+    └── day-04.md
 ```
 
 ## Learning Principle
