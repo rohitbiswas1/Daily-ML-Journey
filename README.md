@@ -24,6 +24,7 @@ Build strong foundations in Machine Learning through consistent daily study, cod
 | Day 2 | Train/Test Split and Evaluation | Linear regression + MAE, RMSE, and R² |
 | Day 3 | Data Inspection with NumPy and Pandas | CSV inspection + summary statistics + correlation |
 | Day 4 | Data Cleaning and Preprocessing | Missing values + duplicates + one-hot encoding |
+| Day 5 | Statistics for Machine Learning | Mean, median, variance, standard deviation, and outlier intuition |
 
 ## Repository Structure
 ```text
@@ -33,12 +34,14 @@ Daily-ML-Journey/
 │   ├── 01_intro_to_machine_learning.md
 │   ├── 02_train_test_evaluation.md
 │   ├── 03_data_inspection_numpy_pandas.md
-│   └── 04_data_cleaning_preprocessing.md
+│   ├── 04_data_cleaning_preprocessing.md
+│   └── 05_statistics_basics.md
 ├── python_ml/
 │   ├── 01_first_ml_example.py
 │   ├── 02_train_test_evaluation.py
 │   ├── 03_data_inspection.py
-│   └── 04_data_cleaning.py
+│   ├── 04_data_cleaning.py
+│   └── 05_statistics_basics.py
 ├── data/
 │   ├── study_progress.csv
 │   └── day4_cleaning_practice.csv
@@ -46,7 +49,8 @@ Daily-ML-Journey/
     ├── day-01.md
     ├── day-02.md
     ├── day-03.md
-    └── day-04.md
+    ├── day-04.md
+    └── day-05.md
 ```
 
 ## Learning Principle
