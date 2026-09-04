@@ -28,6 +28,7 @@ Build strong foundations in Machine Learning through consistent daily study, cod
 | Day 6 | Probability Basics | Theoretical vs empirical probability + simulation + complement rule |
 | Day 7 | Distributions and Sampling | Normal/skewed distributions + repeated random sampling |
 | Day 8 | Correlation and Covariance | Pearson correlation + covariance matrix + ML interpretation |
+| Day 9 | Data Visualization and EDA | Dataset inspection + descriptive statistics + exploratory analysis |
 
 ## Repository Structure
 ```text
@@ -41,7 +42,8 @@ Daily-ML-Journey/
 │   ├── 05_statistics_basics.md
 │   ├── 06_probability_basics.md
 │   ├── 07_distributions_sampling.md
-│   └── 08_correlation_covariance.md
+│   ├── 08_correlation_covariance.md
+│   └── 09_data_visualization_eda.md
 ├── python_ml/
 │   ├── 01_first_ml_example.py
 │   ├── 02_train_test_evaluation.py
@@ -50,7 +52,8 @@ Daily-ML-Journey/
 │   ├── 05_statistics_basics.py
 │   ├── 06_probability_basics.py
 │   ├── 07_distributions_sampling.py
-│   └── 08_correlation_covariance.py
+│   ├── 08_correlation_covariance.py
+│   └── 09_data_visualization_eda.py
 ├── data/
 │   ├── study_progress.csv
 │   └── day4_cleaning_practice.csv
@@ -62,7 +65,8 @@ Daily-ML-Journey/
     ├── day-05.md
     ├── day-06.md
     ├── day-07.md
-    └── day-08.md
+    ├── day-08.md
+    └── day-09.md
 ```
 
 ## Learning Principle
