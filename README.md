@@ -18,14 +18,15 @@ Build strong foundations in Machine Learning through consistent daily study, cod
 | Day 8 | Correlation and Covariance | Pearson correlation + covariance matrix + ML interpretation |
 | Day 9 | Data Visualization and EDA | Dataset inspection + descriptive statistics + exploratory analysis |
 | Day 10 | Feature Scaling | Min-Max normalization + standardization + data leakage intuition |
+| Day 11 | Linear Regression in Depth | Coefficients + predictions + residuals + MAE, MSE, and R² |
 
 ## Repository Structure
 ```text
 Daily-ML-Journey/
-├── foundations/  # Day 1–10 learning notes
-├── python_ml/    # Day 1–10 Python practice
+├── foundations/  # Day 1–11 learning notes
+├── python_ml/    # Day 1–11 Python practice
 ├── data/         # Practice datasets
-└── daily_logs/   # Day 1–10 progress logs
+└── daily_logs/   # Day 1–11 progress logs
 ```
 
 ## Learning Principle
