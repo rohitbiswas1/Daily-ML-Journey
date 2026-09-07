@@ -19,14 +19,15 @@ Build strong foundations in Machine Learning through consistent daily study, cod
 | Day 9 | Data Visualization and EDA | Dataset inspection + descriptive statistics + exploratory analysis |
 | Day 10 | Feature Scaling | Min-Max normalization + standardization + data leakage intuition |
 | Day 11 | Linear Regression in Depth | Coefficients + predictions + residuals + MAE, MSE, and R² |
+| Day 12 | Classification Fundamentals | Logistic regression + probabilities + confusion matrix + classification metrics |
 
 ## Repository Structure
 ```text
 Daily-ML-Journey/
-├── foundations/  # Day 1–11 learning notes
-├── python_ml/    # Day 1–11 Python practice
-├── data/         # Practice datasets
-└── daily_logs/   # Day 1–11 progress logs
+├── foundations/  # Day 1–12 learning notes
+├── python_ml/    # Day 1–12 Python practice
+├── data/         # Practice datasets and experiments
+└── daily_logs/   # Day 1–12 progress logs
 ```
 
 ## Learning Principle
