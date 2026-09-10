@@ -22,14 +22,15 @@ Build strong foundations in Machine Learning through consistent daily study, cod
 | Day 12 | Classification Fundamentals | Logistic regression + probabilities + confusion matrix + classification metrics |
 | Day 13 | Classification Evaluation | Precision + recall + F1 + confusion matrix + threshold trade-offs |
 | Day 14 | Decision Trees & Interpretability | Tree depth + Gini impurity + feature importance + readable decision rules |
+| Day 15 | Ensemble Learning: Random Forests | Tree vs forest + variance reduction + feature importance + hyperparameter experiment |
 
 ## Repository Structure
 ```text
 Daily-ML-Journey/
-├── foundations/  # Day 1–14 learning notes
-├── python_ml/    # Day 1–14 Python practice
+├── foundations/  # Day 1–15 learning notes
+├── python_ml/    # Day 1–15 Python practice
 ├── data/         # Practice datasets and experiments
-└── daily_logs/   # Day 1–14 progress logs
+└── daily_logs/   # Day 1–15 progress logs
 ```
 
 ## Learning Principle
