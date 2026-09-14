@@ -25,14 +25,15 @@ Build strong foundations in Machine Learning through consistent daily study, cod
 | Day 15 | Ensemble Learning: Random Forests | Tree vs forest + variance reduction + feature importance + hyperparameter experiment |
 | Day 16 | K-Nearest Neighbors | Distance-based classification + k comparison + scaling experiment |
 | Day 17 | Support Vector Machines & Margins | Linear SVM + feature scaling + C regularization experiment |
+| Day 18 | Naive Bayes & Probabilistic Classification | GaussianNB + class probabilities + log loss + model comparison |
 
 ## Repository Structure
 ```text
 Daily-ML-Journey/
-├── foundations/  # Day 1–17 learning notes
-├── python_ml/    # Day 1–17 Python practice
+├── foundations/  # Day 1–18 learning notes
+├── python_ml/    # Day 1–18 Python practice
 ├── data/         # Practice datasets and experiments
-└── daily_logs/   # Day 1–17 progress logs
+└── daily_logs/   # Day 1–18 progress logs
 ```
 
 ## Learning Principle
