@@ -26,14 +26,15 @@ Build strong foundations in Machine Learning through consistent daily study, cod
 | Day 16 | K-Nearest Neighbors | Distance-based classification + k comparison + scaling experiment |
 | Day 17 | Support Vector Machines & Margins | Linear SVM + feature scaling + C regularization experiment |
 | Day 18 | Naive Bayes & Probabilistic Classification | GaussianNB + class probabilities + log loss + model comparison |
+| Day 19 | Boosting & Gradient-Based Ensembles | Decision Tree vs AdaBoost vs Gradient Boosting + estimator-count experiment |
 
 ## Repository Structure
 ```text
 Daily-ML-Journey/
-├── foundations/  # Day 1–18 learning notes
-├── python_ml/    # Day 1–18 Python practice
+├── foundations/  # Day 1–19 learning notes
+├── python_ml/    # Day 1–19 Python practice
 ├── data/         # Practice datasets and experiments
-└── daily_logs/   # Day 1–18 progress logs
+└── daily_logs/   # Day 1–19 progress logs
 ```
 
 ## Learning Principle
