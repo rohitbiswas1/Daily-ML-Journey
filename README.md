@@ -27,14 +27,15 @@ Build strong foundations in Machine Learning through consistent daily study, cod
 | Day 17 | Support Vector Machines & Margins | Linear SVM + feature scaling + C regularization experiment |
 | Day 18 | Naive Bayes & Probabilistic Classification | GaussianNB + class probabilities + log loss + model comparison |
 | Day 19 | Boosting & Gradient-Based Ensembles | Decision Tree vs AdaBoost vs Gradient Boosting + estimator-count experiment |
+| Day 20 | Unsupervised Learning: K-Means Clustering | Customer segmentation + k comparison + silhouette score + feature scaling |
 
 ## Repository Structure
 ```text
 Daily-ML-Journey/
-├── foundations/  # Day 1–19 learning notes
-├── python_ml/    # Day 1–19 Python practice
+├── foundations/  # Day 1–20 learning notes
+├── python_ml/    # Day 1–20 Python practice
 ├── data/         # Practice datasets and experiments
-└── daily_logs/   # Day 1–19 progress logs
+└── daily_logs/   # Day 1–20 progress logs
 ```
 
 ## Learning Principle
