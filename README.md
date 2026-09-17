@@ -28,14 +28,15 @@ Build strong foundations in Machine Learning through consistent daily study, cod
 | Day 18 | Naive Bayes & Probabilistic Classification | GaussianNB + class probabilities + log loss + model comparison |
 | Day 19 | Boosting & Gradient-Based Ensembles | Decision Tree vs AdaBoost vs Gradient Boosting + estimator-count experiment |
 | Day 20 | Unsupervised Learning: K-Means Clustering | Customer segmentation + k comparison + silhouette score + feature scaling |
+| Day 21 | Dimensionality Reduction with PCA | Iris data + scaling + 4D→2D PCA + explained variance + classifier comparison |
 
 ## Repository Structure
 ```text
 Daily-ML-Journey/
-├── foundations/  # Day 1–20 learning notes
-├── python_ml/    # Day 1–20 Python practice
+├── foundations/  # Day 1–21 learning notes
+├── python_ml/    # Day 1–21 Python practice
 ├── data/         # Practice datasets and experiments
-└── daily_logs/   # Day 1–20 progress logs
+└── daily_logs/   # Day 1–21 progress logs
 ```
 
 ## Learning Principle
