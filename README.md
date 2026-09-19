@@ -30,14 +30,15 @@ Build strong foundations in Machine Learning through consistent daily study, cod
 | Day 20 | Unsupervised Learning: K-Means Clustering | Customer segmentation + k comparison + silhouette score + feature scaling |
 | Day 21 | Dimensionality Reduction with PCA | Iris data + scaling + 4D→2D PCA + explained variance + classifier comparison |
 | Day 22 | Hyperparameter Tuning & Cross-Validation | GridSearchCV + stratified 5-fold CV + Logistic Regression C tuning + leakage-safe Pipeline |
+| Day 23 | Model Selection, Pipelines & Data Leakage | Model comparison + stratified CV + leakage demonstration + held-out test evaluation |
 
 ## Repository Structure
 ```text
 Daily-ML-Journey/
-├── foundations/  # Day 1–22 learning notes
-├── python_ml/    # Day 1–22 Python practice
+├── foundations/  # Day 1–23 learning notes
+├── python_ml/    # Day 1–23 Python practice
 ├── data/         # Practice datasets and experiments
-└── daily_logs/   # Day 1–22 progress logs
+└── daily_logs/   # Day 1–23 progress logs
 ```
 
 ## Learning Principle
