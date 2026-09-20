@@ -31,14 +31,15 @@ Build strong foundations in Machine Learning through consistent daily study, cod
 | Day 21 | Dimensionality Reduction with PCA | Iris data + scaling + 4D→2D PCA + explained variance + classifier comparison |
 | Day 22 | Hyperparameter Tuning & Cross-Validation | GridSearchCV + stratified 5-fold CV + Logistic Regression C tuning + leakage-safe Pipeline |
 | Day 23 | Model Selection, Pipelines & Data Leakage | Model comparison + stratified CV + leakage demonstration + held-out test evaluation |
+| Day 24 | Classification Thresholds, Calibration & Probability Quality | Threshold comparison + precision/recall trade-offs + Brier score + calibration bins |
 
 ## Repository Structure
 ```text
 Daily-ML-Journey/
-├── foundations/  # Day 1–23 learning notes
-├── python_ml/    # Day 1–23 Python practice
+├── foundations/  # Day 1–24 learning notes
+├── python_ml/    # Day 1–24 Python practice
 ├── data/         # Practice datasets and experiments
-└── daily_logs/   # Day 1–23 progress logs
+└── daily_logs/   # Day 1–24 progress logs
 ```
 
 ## Learning Principle
