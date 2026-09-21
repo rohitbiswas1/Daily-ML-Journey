@@ -32,14 +32,15 @@ Build strong foundations in Machine Learning through consistent daily study, cod
 | Day 22 | Hyperparameter Tuning & Cross-Validation | GridSearchCV + stratified 5-fold CV + Logistic Regression C tuning + leakage-safe Pipeline |
 | Day 23 | Model Selection, Pipelines & Data Leakage | Model comparison + stratified CV + leakage demonstration + held-out test evaluation |
 | Day 24 | Classification Thresholds, Calibration & Probability Quality | Threshold comparison + precision/recall trade-offs + Brier score + calibration bins |
+| Day 25 | Regression Evaluation, Residual Analysis & Model Diagnostics | Diabetes regression + MAE/RMSE/R² + residual diagnostics + linear vs polynomial comparison |
 
 ## Repository Structure
 ```text
 Daily-ML-Journey/
-├── foundations/  # Day 1–24 learning notes
-├── python_ml/    # Day 1–24 Python practice
+├── foundations/  # Day 1–25 learning notes
+├── python_ml/    # Day 1–25 Python practice
 ├── data/         # Practice datasets and experiments
-└── daily_logs/   # Day 1–24 progress logs
+└── daily_logs/   # Day 1–25 progress logs
 ```
 
 ## Learning Principle
