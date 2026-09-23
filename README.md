@@ -34,14 +34,15 @@ Build strong foundations in Machine Learning through consistent daily study, cod
 | Day 24 | Classification Thresholds, Calibration & Probability Quality | Threshold comparison + precision/recall trade-offs + Brier score + calibration bins |
 | Day 25 | Regression Evaluation, Residual Analysis & Model Diagnostics | Diabetes regression + MAE/RMSE/R² + residual diagnostics + linear vs polynomial comparison |
 | Day 26 | Model Interpretability: Feature Importance, Permutation Importance & SHAP Intuition | Random Forest + impurity importance + permutation importance + SHAP concepts |
+| Day 27 | Model Deployment Basics: Saving, Loading & Serving a Model | Iris pipeline + joblib serialization + reload verification + local inference function |
 
 ## Repository Structure
 ```text
 Daily-ML-Journey/
-├── foundations/  # Day 1–26 learning notes
-├── python_ml/    # Day 1–26 Python practice
+├── foundations/  # Day 1–27 learning notes
+├── python_ml/    # Day 1–27 Python practice
 ├── data/         # Practice datasets and experiments
-└── daily_logs/   # Day 1–26 progress logs
+└── daily_logs/   # Day 1–27 progress logs
 ```
 
 ## Learning Principle
