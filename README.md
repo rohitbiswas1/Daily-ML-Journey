@@ -36,14 +36,15 @@ Build strong foundations in Machine Learning through consistent daily study, cod
 | Day 26 | Model Interpretability: Feature Importance, Permutation Importance & SHAP Intuition | Random Forest + impurity importance + permutation importance + SHAP concepts |
 | Day 27 | Model Deployment Basics: Saving, Loading & Serving a Model | Iris pipeline + joblib serialization + reload verification + local inference function |
 | Day 28 | ML APIs & Batch Inference | API-style request validation + saved-model inference + CSV batch scoring + prediction output |
+| Day 29 | Monitoring, Data Drift & Model Reliability | Reference/current distributions + PSI drift signal + prediction-rate monitoring + reliability checklist |
 
 ## Repository Structure
 ```text
 Daily-ML-Journey/
-├── foundations/  # Day 1–28 learning notes
-├── python_ml/    # Day 1–28 Python practice
+├── foundations/  # Day 1–29 learning notes
+├── python_ml/    # Day 1–29 Python practice
 ├── data/         # Practice datasets and experiments
-└── daily_logs/   # Day 1–28 progress logs
+└── daily_logs/   # Day 1–29 progress logs
 ```
 
 ## Learning Principle
