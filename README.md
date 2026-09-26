@@ -37,14 +37,15 @@ Build strong foundations in Machine Learning through consistent daily study, cod
 | Day 27 | Model Deployment Basics: Saving, Loading & Serving a Model | Iris pipeline + joblib serialization + reload verification + local inference function |
 | Day 28 | ML APIs & Batch Inference | API-style request validation + saved-model inference + CSV batch scoring + prediction output |
 | Day 29 | Monitoring, Data Drift & Model Reliability | Reference/current distributions + PSI drift signal + prediction-rate monitoring + reliability checklist |
+| Day 30 | End-to-End ML Project & 30-Day Journey Review | Leakage-safe pipeline + 5-fold CV + held-out test evaluation + model serialization |
 
 ## Repository Structure
 ```text
 Daily-ML-Journey/
-├── foundations/  # Day 1–29 learning notes
-├── python_ml/    # Day 1–29 Python practice
+├── foundations/  # Day 1–30 learning notes
+├── python_ml/    # Day 1–30 Python practice
 ├── data/         # Practice datasets and experiments
-└── daily_logs/   # Day 1–29 progress logs
+└── daily_logs/   # Day 1–30 progress logs
 ```
 
 ## Learning Principle
